@@ -1,0 +1,11 @@
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\bin\Debug\projet_6_nimmt_saing_sundara.exe.config
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\bin\Debug\projet_6_nimmt_saing_sundara.exe
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\bin\Debug\projet_6_nimmt_saing_sundara.pdb
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\obj\Debug\projet_6_nimmt_saing_sundara.Form1.resources
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\obj\Debug\projet_6_nimmt_saing_sundara.Properties.Resources.resources
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\obj\Debug\projet_6_nimmt_saing_sundara.csproj.GenerateResource.Cache
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\obj\Debug\projet_6_nimmt_saing_sundara.exe
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\obj\Debug\projet_6_nimmt_saing_sundara.pdb
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\obj\Debug\projet_6_nimmt_saing_sundara.NewGame.resources
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\obj\Debug\projet_6_nimmt_saing_sundara.Game.resources
+C:\Users\Shiny\Desktop\projet_6_nimmt_saing_sundara\projet_6_nimmt_saing_sundara\obj\Debug\projet_6_nimmt_saing_sundara.PlayersName.resources
